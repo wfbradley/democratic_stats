@@ -3,4 +3,4 @@ This repository houses tools for graphing a few simple statistical plots.  The i
 
 Tools:
 
-[Comparing click-through-rates.ipynb]  Suppose you are performing an A/B test on two online ads.  One of the ads has a higher click-through-rate (CTR).  Is it significant?  This tool let's you find out.
+[Comparing click-through-rates.ipynb]  Suppose you are performing an A/B test on two online ads.  One of the ads has a higher click-through-rate (CTR).  Is it significant?  This tool lets you find out.
